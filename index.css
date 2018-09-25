@@ -1,7 +1,7 @@
 // index.css
 
 h1 {
-	width: 100%;
+	margin: 0 auto;
 	text-align: center;
 }
 
@@ -10,6 +10,7 @@ h2 {
 }
 
 div {
+	font-size: 50px;
 	text-align: center;	
 }
 

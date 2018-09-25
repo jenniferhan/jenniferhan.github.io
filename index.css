@@ -1,7 +1,6 @@
 // index.css
 
-.name {
-	margin: 0 auto;
+h1 {
 	text-align: center;
 }
 
@@ -14,8 +13,8 @@ div {
 }
 
 img {
-	height: 1000px;
-	width: 1000px;
+	height: 700px;
+	width: 700px;
 	margin-left: auto;
     	margin-right: auto;
 }
